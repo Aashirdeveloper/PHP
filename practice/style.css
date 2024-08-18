@@ -1,0 +1,16 @@
+
+.title{
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.input form{
+    width: 50%;
+    display: block;
+    margin: 0px auto;
+    margin-top: 50px;
+}

@@ -1,0 +1,20 @@
+.container{
+    width:100%;
+    margin-top: 30px;
+}
+.container form{
+    width: 50%;
+    display: block;
+    margin: auto;
+
+    align-items: center;
+}
+.err-row {
+    margin-top: 4px;
+    width: 100%;
+    height: auto;
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    overflow: hidden;
+}
